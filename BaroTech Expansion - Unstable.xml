@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="BaroTech Expansion - Unstable" path="Data\ContentPackages\BaroTech Expansion - Unstable.xml" corepackage="false" gameversion="0.9.1.0">
+  <Item file="Mods\BTechExpD\Machinery\SurveillanceMonitor.xml" />
+  <Item file="Mods\BTechExpD\Machinery\FieldRadio.xml" />
+  <Item file="Mods\BTechExpD\Machinery\Assemblers.xml" />
+  <Item file="Mods\BTechExpD\Machinery\UpgradedTools.xml" />
+  <Item file="Mods\BTechExpD\Papers\Blueprints.xml" />
+  <Item file="Mods\BTechExpD\Papers\MiscPapers.xml" />
+  <Item file="Mods\BTechExpD\Electronics\Circuits.xml" />
+  <Item file="Mods\BTechExpD\Electronics\AnnouncerSpeaker.xml" />
+  <Item file="Mods\BTechExpD\Machinery\PortableOxygenGenerator.xml" />
+  <Item file="Mods\BTechExpD\Machinery\2RDock.xml" />
+  <Item file="Mods\BTechExpD\Machinery\PowerSources.xml" />
+  <Item file="Mods\BTechExpD\Soundtracks\DefaultNotesheets.xml" />
+  <Item file="Mods\BTechExpD\Electronics\AudioProcessor.xml" />
+  <Item file="Mods\BTechExpD\Equipment\EnhancedSuits.xml" />
+  <Item file="Mods\BTechExpD\Equipment\IsotopePlates.xml" />
+  <Item file="Mods\BTechExpD\Equipment\DetonatorCrate.xml" />
+  <Item file="Mods\BTechExpD\Weapons\Explosives.xml" />
+  <Item file="Mods\BTechExpD\Weapons\SpecialCoilgunAmmo.xml" />
+  <Item file="Mods\BTechExpD\_Missions\SealedContainer.xml" />
+  <Item file="Mods\BTechExpD\_Missions\DetonatorCrate_loot.xml" />
+  <Text file="Mods\BTechExpD\_Localization\Russian.xml" />
+  <Text file="Mods\BTechExpD\_Localization\English.xml" />
+  <Missions file="Mods\BTechExpD\_Missions\CargoMissions.xml" />
+  <NPCConversations file="Mods\BTechExpD\_NPCDialogs\Russian.xml" />
+  <NPCConversations file="Mods\BTechExpD\_NPCDialogs\English.xml" />
+  <Submarine file="Submarines\BTechExpD\Alkonost TR.sub" />
+  <Outpost file="Mods\BTechExpD\Outposts\OutpostLarge.sub" />
+  <Outpost file="Mods\BTechExpD\Outposts\OutpostLarge2.sub" />
+  <Outpost file="Mods\BTechExpD\Outposts\OutpostResearch.sub" />
+  <Character file="Mods\BTechExpD\Creatures\DemoHusk\Demohusk.xml" />
+  <RandomEvents file="Mods\BTechExpD\randomevents.xml" />
+</contentpackage>
